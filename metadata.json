@@ -1,0 +1,6 @@
+{
+    "name": "My Custom Token",
+    "symbol": "MCT1999",
+    "description": "This is a fungible token for MyToken project.",
+    "image": "https://raw.githubusercontent.com/prashant1k99/solana-nft/refs/heads/main/data/family-nft.png"
+  }
